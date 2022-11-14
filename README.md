@@ -77,8 +77,7 @@ I rewrote them anyway because I wanted to try my hand at memory management, impl
 classes, designing abstractions and so on. 
 
 ## Building
-Download the codebase with the git clone command.
-> git clone https://github.com/niravcodes/huffman_compression.git 
+
 
 Build with the make command.
 
@@ -121,7 +120,6 @@ To clean the source directory, type
 2. Try to mix with some other simple compression algorithms like RLE and compare efficiency.
 3. Try various approaches to decoding Huffman
 
-## Progess
-<s>Released version 1.0.0 with basic compression and decompression. Plans to optimise, refactor and benchmark.</s> All plans are cancelled. As it stands, the program will do basic huffman encoding and decoding for you. But that's about it.
 
-More  on [nirav.com.np](https://nirav.com.np)
+
+
